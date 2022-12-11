@@ -1,1 +1,7 @@
-console.log ('Hi');
+console.log ('Hello');
+
+const numberOne = +prompt ('Number?');
+
+if(numberOne < 0) {
+    console.log ('positive')
+}
