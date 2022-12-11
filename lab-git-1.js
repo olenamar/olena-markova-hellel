@@ -10,3 +10,7 @@ if(numberOne < 0) {
 if (numberOne === 0){
     console.log ('Zero')
 }
+
+if (numberOne % 2 ===0){
+    console.log ('odd')
+}
